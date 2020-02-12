@@ -11,7 +11,7 @@ class UsersTableSeeder extends Seeder
             'id'             => 1,
             'name'           => 'Netshow.me',
             'email'          => 'admin@email.com',
-            'password'       => '$2y$10$64yOpWpkXdfjIHXjvb5qSu0VwADXdnyE.s9gYLyiI1yV1lkhrQHn2',
+            'password'       => '$2y$12$kvZwGunHm536wm9lCXZDvOSKE9uKndiRSw.TOOt7TVITfrdo5hImW',
             'remember_token' => null,
             'created_at'     => '2020-02-11 17:07:43',
             'updated_at'     => '2020-02-11 17:07:43',
