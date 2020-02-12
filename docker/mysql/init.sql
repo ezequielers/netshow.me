@@ -1,0 +1,3 @@
+GRANT ALL ON * TO 'root'@'%' ;
+
+FLUSH PRIVILEGES ;
